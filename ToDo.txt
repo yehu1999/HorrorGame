@@ -1,3 +1,4 @@
 Idle时镜头摇晃太大，影响互动
 BP_Door，AduioPlayer的存档保存
 镜头穿模
+(Solved)传送角色时无法控制到达后的视线旋转（需要设置ControlRotation）
