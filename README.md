@@ -21,6 +21,7 @@
 ![image](https://github.com/user-attachments/assets/905cfc78-6e05-485f-bf92-6261ea37ddcd)
 
 游戏高级设置
+
 ![image](https://github.com/user-attachments/assets/3620154e-f59c-4d32-92fb-90c2117e3f08)
 ![image](https://github.com/user-attachments/assets/19898009-1f52-4f31-b2bd-3296028f23c2)
 ![image](https://github.com/user-attachments/assets/b87e4a8c-0b0e-488a-8add-0057a3e94a35)
